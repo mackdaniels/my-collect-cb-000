@@ -10,5 +10,5 @@ def my_collect(array)
     end
     yield collection
   end
-    
+
 end
